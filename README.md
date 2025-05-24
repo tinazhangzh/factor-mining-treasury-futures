@@ -19,4 +19,4 @@ This project applies genetic programming and symbolic regression to discover pre
 
 Symbolic factors produced smoother return curves and better drawdown control than buy-and-hold baseline.
 
-![Result image](Result image.png) 
+![Result image](cumulative_returns.png) 
