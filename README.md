@@ -12,7 +12,7 @@ This project applies genetic programming and symbolic regression to discover pre
 ## 🛠️ Tools
 
 - Python, Pandas, NumPy, Matplotlib, ta-lib, gplearn
-- [ta-lib](https://mrjbq7.github.io/ta-lib/) for technical indicators
+- [ta-lib](https://pypi.org/project/TA-Lib/) for technical indicators
 - [gplearn](https://gplearn.readthedocs.io/en/stable/) for symbolic regression
 
 ## 📈 Results
