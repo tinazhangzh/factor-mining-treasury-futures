@@ -1,4 +1,4 @@
-# Factor Mining for Chinese Treasury Bond Futures
+# Factor Mining for Treasury Bond Futures
 
 This project applies genetic programming and symbolic regression to discover predictive, interpretable factors for the next-day return of Chinese 10-year Treasury bond futures. 
 
